@@ -2,14 +2,14 @@
 
 # Replace your ao3 username and password and put quotation marks around it
 # Ex: username = "myao3username"
-username = uname
-password = pword
+username = sendhelpimbored
+password = senhasecreta!3004
 
 # Program defaults on getting its information from the history page, but you can choose to get it from the bookmarks by setting this variable to True
 bookmarks = False
 
 # If you want to run this for another year change this number
-year = "2021"
+year = "2024"
 
 # Import statements
 import requests
